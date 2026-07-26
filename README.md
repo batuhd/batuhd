@@ -1,8 +1,9 @@
-# batuhd
-
-<!-- Buraya kendi tanıtım yazını ekleyebilirsin -->
-
 ![Metrics](github-metrics.svg)
 
 
-![Trophy](./profile/trophy.svg)
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=batuhd&theme=github_dark" /></td>
+    <td><img src="./profile/trophy.svg" /></td>
+  </tr>
+</table>
